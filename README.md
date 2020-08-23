@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a project for the real estate industry.
+- 💬 Ask me about React.js and Serverless
+
 <!--
 **wisesmile/wisesmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
